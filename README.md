@@ -31,3 +31,5 @@ Make sure the following libraries are installed:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
+```
+Note -  Make sure to change the path of dataset.
